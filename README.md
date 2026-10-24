@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="250" src="https://x.com/its_LukasThorne/status/2114045432783343994/photo/1"  />
+<img data-importer="image" align="right" height="250" src="![alt text](https://github.com/[use/[reponame]/blob/[branch]/image.jpg](https://github.com/LukasThorn/LukasThorn/blob/main/HVaY7ZiWcAA9f7R.jpg)?raw=true)"  />
 
 ###
 
