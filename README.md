@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="250" src="[https://i.imgflip.com/65efzo.gif](https://x.com/its_LukasThorne/status/2114045432783343994/photo/1)"  />
 
 ###
 
